@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/CrtAVjSb8UztHxFMG2HVpgsfgbLqyzG43pfCC1RBajcvEGJF0wXyYpLWI8F3GwyWV9dsllhRsso2HHTICw/6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matheus.holanda\\source\\repos\\Perimetro\\Perimetro\\Perimetro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matheus.holanda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matheus.holanda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matheus.holanda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\matheus.holanda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 2\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58AC6D1E-09E7-41F2-9EC4-7F9954652571}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\aula 7 - configura\u00E7\u00E3o do ambiente de trabalho\\exerc\u00EDcio 2\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58AC6D1E-09E7-41F2-9EC4-7F9954652571}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 2\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAC/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T22:42:41.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

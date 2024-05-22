@@ -1,0 +1,14 @@
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\bin\Debug\net6.0\Perimetro.exe
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\bin\Debug\net6.0\Perimetro.deps.json
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\bin\Debug\net6.0\Perimetro.runtimeconfig.json
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\bin\Debug\net6.0\Perimetro.dll
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\bin\Debug\net6.0\Perimetro.pdb
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.AssemblyInfo.cs
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.dll
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\refint\Perimetro.dll
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.pdb
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\Perimetro.genruntimeconfig.cache
+C:\Users\matheus.holanda\source\repos\Perimetro\Perimetro\obj\Debug\net6.0\ref\Perimetro.dll

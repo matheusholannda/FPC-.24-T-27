@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 11\\Exercicio11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AB7E7D-D8FE-4988-805A-A20A2F99209B}|Exercicio11\\Exercicio11.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\aula 7 - configura\u00E7\u00E3o do ambiente de trabalho\\exerc\u00EDcio 11\\exercicio11\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AB7E7D-D8FE-4988-805A-A20A2F99209B}|Exercicio11\\Exercicio11.csproj|solutionrelative:exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 11\\Exercicio11\\Exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 7 - Configura\u00E7\u00E3o do ambiente de trabalho\\Exerc\u00EDcio 11\\Exercicio11\\Exercicio11\\Program.cs",
+              "RelativeToolTip": "Exercicio11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:49:50.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
