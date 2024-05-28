@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 9 - Operadores e convers\u00F5es de dados\\Exerc\u00EDcio 11\\Exercicio11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8C920D-70BD-4FF4-8D56-A20E96469DA5}|Exercicio11\\Exercicio11.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\aula 9 - operadores e convers\u00F5es de dados\\exerc\u00EDcio 11\\exercicio11\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8C920D-70BD-4FF4-8D56-A20E96469DA5}|Exercicio11\\Exercicio11.csproj|solutionrelative:exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 9 - Operadores e convers\u00F5es de dados\\Exerc\u00EDcio 11\\Exercicio11\\Exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 9 - Operadores e convers\u00F5es de dados\\Exerc\u00EDcio 11\\Exercicio11\\Exercicio11\\Program.cs",
+              "RelativeToolTip": "Exercicio11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T19:19:30.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
