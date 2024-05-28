@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 8 - Estruturas de decis\u00E3o\\Exercicio 38\\Exercicio38\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98089D89-0CA0-44BE-B22E-7604ED344203}|Exercicio38\\Exercicio38.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\aula 8 - estruturas de decis\u00E3o\\exercicio 38\\exercicio38\\exercicio38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98089D89-0CA0-44BE-B22E-7604ED344203}|Exercicio38\\Exercicio38.csproj|solutionrelative:exercicio38\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 8 - Estruturas de decis\u00E3o\\Exercicio 38\\Exercicio38\\Exercicio38\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio38\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Aula 8 - Estruturas de decis\u00E3o\\Exercicio 38\\Exercicio38\\Exercicio38\\Program.cs",
+              "RelativeToolTip": "Exercicio38\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T00:31:07.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
