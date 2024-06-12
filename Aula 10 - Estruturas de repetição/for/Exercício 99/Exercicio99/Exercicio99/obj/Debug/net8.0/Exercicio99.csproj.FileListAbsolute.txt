@@ -1,0 +1,15 @@
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\bin\Debug\net8.0\Exercicio99.exe
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\bin\Debug\net8.0\Exercicio99.deps.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\bin\Debug\net8.0\Exercicio99.runtimeconfig.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\bin\Debug\net8.0\Exercicio99.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\bin\Debug\net8.0\Exercicio99.pdb
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.AssemblyInfo.cs
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.sourcelink.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\refint\Exercicio99.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.pdb
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\Exercicio99.genruntimeconfig.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Aula 10 - Estruturas de repetição\for\Exercício 99\Exercicio99\Exercicio99\obj\Debug\net8.0\ref\Exercicio99.dll
