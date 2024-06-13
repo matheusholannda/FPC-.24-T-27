@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LHPets.props" />
+</Project>

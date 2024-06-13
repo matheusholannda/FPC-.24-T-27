@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|c:\\users\\matheus.holanda\\desktop\\c# - qualifica sp\\projetos\\lhpets\\lhpets\\classes\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|solutionrelative:lhpets\\classes\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|c:\\users\\matheus.holanda\\desktop\\c# - qualifica sp\\projetos\\lhpets\\lhpets\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|solutionrelative:lhpets\\classes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|c:\\users\\matheus.holanda\\desktop\\c# - qualifica sp\\projetos\\lhpets\\lhpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D21B19C-B73C-4752-AD2C-C6B13C304D71}|LHPets\\LHPets.csproj|solutionrelative:lhpets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Classes\\Cliente.cs",
+              "RelativeDocumentMoniker": "LHPets\\Classes\\Cliente.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Classes\\Cliente.cs",
+              "RelativeToolTip": "LHPets\\Classes\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:19:10.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Program.cs",
+              "RelativeDocumentMoniker": "LHPets\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Program.cs",
+              "RelativeToolTip": "LHPets\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:01:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Banco.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Classes\\Banco.cs",
+              "RelativeDocumentMoniker": "LHPets\\Classes\\Banco.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\Classes\\Banco.cs",
+              "RelativeToolTip": "LHPets\\Classes\\Banco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T19:09:08.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
