@@ -1701,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
+      "projectUniqueName": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
       "projectName": "LHPets",
-      "projectPath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
+      "projectPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
       "packagesPath": "C:\\Users\\matheus.holanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\obj\\",
+      "outputPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\LHPets\\LHPets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matheus.holanda\\AppData\\Roaming\\NuGet\\NuGet.Config",

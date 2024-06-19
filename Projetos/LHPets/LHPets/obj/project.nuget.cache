@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+PEdrGtQXQzFXYLc04Ww6gIfzwStAzyn6Jdivl0pXv00rsLTWMGnrjK1rYlcebLYvJBpqNOXsgwCKd8en4tXuQ==",
+  "dgSpecHash": "e+VGJKNWYg28u0S510JhzF96s94yI/59qEQo4WGB62qxBBnPexuTABwrIvFfcELtytbzmuaq7GJoRf1Or9LKoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
+  "projectFilePath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\LHPets\\LHPets\\LHPets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matheus.holanda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\matheus.holanda\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

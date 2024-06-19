@@ -12,3 +12,11 @@ C:\Users\matheus.holanda\Desktop\C# - Qualifica SP\Projetos\ControleClientes\Con
 C:\Users\matheus.holanda\Desktop\C# - Qualifica SP\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.pdb
 C:\Users\matheus.holanda\Desktop\C# - Qualifica SP\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.genruntimeconfig.cache
 C:\Users\matheus.holanda\Desktop\C# - Qualifica SP\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ref\ControleClientes.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.AssemblyInfo.cs
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.sourcelink.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\refint\ControleClientes.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\obj\Debug\net8.0\ControleClientes.pdb

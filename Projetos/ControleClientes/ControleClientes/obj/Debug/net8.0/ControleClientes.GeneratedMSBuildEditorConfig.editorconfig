@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControleClientes
-build_property.ProjectDir = C:\Users\matheus.holanda\Desktop\C# - Qualifica SP\Projetos\ControleClientes\ControleClientes\
+build_property.ProjectDir = C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\ControleClientes\ControleClientes\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

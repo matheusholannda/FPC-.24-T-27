@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj": {}
+    "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj": {
+    "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj",
         "projectName": "ControleClientes",
-        "projectPath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj",
+        "projectPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\ControleClientes\\ControleClientes\\ControleClientes.csproj",
         "packagesPath": "C:\\Users\\matheus.holanda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matheus.holanda\\Desktop\\C# - Qualifica SP\\Projetos\\ControleClientes\\ControleClientes\\obj\\",
+        "outputPath": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\ControleClientes\\ControleClientes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\matheus.holanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
