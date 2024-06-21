@@ -39,7 +39,7 @@ namespace Inventario.Models
 
         public override void MostrarDetalhes()
         {
-            Console.WriteLine($"Serviço: {Nome}, Preço: {Preco:C}, Duração: {DuracaoEmHoras} horas");
+            Console.WriteLine($"ID: {Id}, Serviço: {Nome}, Preço: {Preco:C}, Duração: {DuracaoEmHoras} horas");
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\bin\Debug\net8.0\Inventario.exe
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\bin\Debug\net8.0\Inventario.deps.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\bin\Debug\net8.0\Inventario.runtimeconfig.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\bin\Debug\net8.0\Inventario.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\bin\Debug\net8.0\Inventario.pdb
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfoInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfo.cs
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.sourcelink.json
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\refint\Inventario.dll
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.pdb
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\Inventario.genruntimeconfig.cache
+C:\Users\matheus.holanda\Desktop\FPC-.24-T-27\Projetos\Inventario\Inventario\obj\Debug\net8.0\ref\Inventario.dll

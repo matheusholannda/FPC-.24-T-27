@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\projetos\\inventario\\inventario\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\projetos\\inventario\\inventario\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\projetos\\inventario\\inventario\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\projetos\\inventario\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|c:\\users\\matheus.holanda\\desktop\\fpc-.24-t-27\\projetos\\inventario\\inventario\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93891FF0-72B5-4F58-9B97-10E1B363C386}|Inventario\\Inventario.csproj|solutionrelative:inventario\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,61 +36,47 @@
               "RelativeDocumentMoniker": "Inventario\\Services\\InventarioService.cs",
               "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Services\\InventarioService.cs",
               "RelativeToolTip": "Inventario\\Services\\InventarioService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAQwCYAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T19:20:38.129Z",
+              "WhenOpened": "2024-06-19T21:21:23.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Servico.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Servico.cs",
-              "RelativeDocumentMoniker": "Inventario\\Models\\Servico.cs",
-              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Servico.cs",
-              "RelativeToolTip": "Inventario\\Models\\Servico.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T18:14:55.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Inventario\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Produto.cs",
               "RelativeToolTip": "Inventario\\Models\\Produto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAARAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:42:24.216Z",
+              "WhenOpened": "2024-06-19T21:21:08.799Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "Inventario\\Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Servico.cs",
+              "RelativeToolTip": "Inventario\\Models\\Servico.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:15:17.158Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Item.cs",
-              "RelativeDocumentMoniker": "Inventario\\Models\\Item.cs",
-              "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Models\\Item.cs",
-              "RelativeToolTip": "Inventario\\Models\\Item.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:33:08.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Program.cs",
               "RelativeDocumentMoniker": "Inventario\\Program.cs",
               "ToolTip": "C:\\Users\\matheus.holanda\\Desktop\\FPC-.24-T-27\\Projetos\\Inventario\\Inventario\\Program.cs",
               "RelativeToolTip": "Inventario\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T17:27:58.695Z",
+              "WhenOpened": "2024-06-19T17:56:00.383Z",
               "EditorCaption": ""
             }
           ]
